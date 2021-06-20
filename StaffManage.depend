@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\staffmanage\main.cpp
+	<iostream>
+
+1624172396 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\main.cpp
+	"main.h"
+
+1618730460 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\sqlite3.h
+	<stdarg.h>
+
+1624175355 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\dprt_mapper.cpp
+	"dprt_mapper.h"
+
+1624122814 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\menu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1624122345 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\menu.h
+
+1624171301 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\utils.cpp
+	"utils.h"
+
+1624170668 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\utils.h
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"utils.h"
+
+1624122829 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\count_service.cpp
+	"count_service.h"
+
+1624122657 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\count_service.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"struct.h"
+	"count_service.h"
+
+1624158719 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\struct.h
+
+1624174241 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\dprt_mapper.h
+	<stdio.h>
+	<string.h>
+	"struct.h"
+	"sqlite3.h"
+
+1624122822 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\dprt_service.cpp
+	"dprt_service.h"
+
+1624122677 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\dprt_service.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"dprt_service.h"
+	"struct.h"
+
+1624161775 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\user_mapper.cpp
+	"user_mapper.h"
+
+1624122700 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\user_mapper.h
+	<stdio.h>
+	<string.h>
+	"struct.h"
+	"sqlite3.h"
+
+1624176172 source:c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\user_service.cpp
+	"user_service.h"
+
+1624175413 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\user_service.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"user_mapper.h"
+	"dprt_mapper.h"
+	"struct.h"
+
+1624170990 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\main.h
+	<stdio.h>
+	<string>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"struct.h"
+	"menu.h"
+	"user_service.h"
+	"user_mapper.h"
+	"dprt_service.h"
+	"dprt_mapper.h"
+	"count_service.h"
+	"sqlite3.h"
+	"database.h"
+	"utils.h"
+
+1624123528 c:\users\admin\documents\xiaominet\upupoo\docker\config\project\c\staffmanage\database.h
+
